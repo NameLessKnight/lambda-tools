@@ -1,6 +1,7 @@
 # MIT License
 # Copyright (c) 2025 Wang Qiang
 # Source: https://github.com/NameLessKnight/lambda-tools
+
 import boto3
 import urllib.request
 import json
